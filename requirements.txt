@@ -1,0 +1,11 @@
+gradio==4.22.0
+gradio_client==0.13.0
+pydantic==2.8.2
+matplotlib
+numpy
+ezdxf
+cadquery
+pandas==2.0.2
+streamlit
+python-docx
+openpyxl>=3.0.0
